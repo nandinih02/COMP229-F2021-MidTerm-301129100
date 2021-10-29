@@ -43,35 +43,30 @@ module.exports.details = (req, res, next) => {
 
 // Renders the Add form using the add_edit.ejs template
 module.exports.displayAddPage = (req, res, next) => {
-    
-    // ADD YOUR CODE HERE        
+
 
 }
 
 // Processes the data submitted from the Add form to create a new book
 module.exports.processAddPage = (req, res, next) => {
 
-    // ADD YOUR CODE HERE
 
 }
 
 // Gets a book by id and renders the Edit form using the add_edit.ejs template
 module.exports.displayEditPage = (req, res, next) => {
     
-    // ADD YOUR CODE HERE
 
 }
 
 // Processes the data submitted from the Edit form to update a book
 module.exports.processEditPage = (req, res, next) => {
     
-    // ADD YOUR CODE HERE
     
 }
 
 // Deletes a book based on its id.
 module.exports.performDelete = (req, res, next) => {
     
-    // ADD YOUR CODE HERE
 
 }
