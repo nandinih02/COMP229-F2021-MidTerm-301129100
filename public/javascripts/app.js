@@ -1,3 +1,7 @@
+//COMP229-MidTerm
+// Nandini Hariprasad
+// 301129100
+// 28/10/2021
 console.log('Goes to the client side.');
 
 if(getTitle == "Book List")

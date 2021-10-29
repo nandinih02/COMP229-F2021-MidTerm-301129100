@@ -1,3 +1,7 @@
+//COMP229-MidTerm
+// Nandini Hariprasad
+// 301129100
+// 28/10/2021
 
 let mongoose = require('mongoose');
 

@@ -1,3 +1,8 @@
+//COMP229-MidTerm
+// Nandini Hariprasad
+// 301129100
+// 28/10/2021
+
 // create a reference to the model
 let Book = require('../models/book');
 
